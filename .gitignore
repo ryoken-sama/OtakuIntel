@@ -1,9 +1,2 @@
-anime_cleaned.csv
-anime_filtered.csv
-AnimeList.csv
-animelists_cleaned.csv
-animelists_filtered.csv
-UserAnimeList.csv
-UserList.csv
-users_cleaned.csv
-users_filtered.csv
+*.csv
+archive/
